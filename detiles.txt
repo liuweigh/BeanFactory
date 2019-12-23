@@ -1,0 +1,1 @@
+通过修改bean.properties 文件来转换

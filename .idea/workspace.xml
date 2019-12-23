@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b97a0fde-0c40-45b0-b8f8-5f3358f6e382" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BeanFactory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/dao/IAccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/dao/impl/AccountDaoImplOracle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/factory/BeanFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/service/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/shenruan/ui/client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bean.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/bean.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/dao/IAccountDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/dao/impl/AccountDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/dao/impl/AccountDaoImplOracle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/factory/BeanFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/service/IAccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/shenruan/ui/client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/detiles.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -208,12 +188,24 @@
       <updated>1577060034908</updated>
       <workItem from="1577060038766" duration="11937000" />
       <workItem from="1577074679848" duration="2174000" />
-      <workItem from="1577080265136" duration="528000" />
+      <workItem from="1577080265136" duration="884000" />
     </task>
+    <task id="LOCAL-00001" summary="工厂模式解耦12_23_14:00">
+      <created>1577080925230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577080925230</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="工厂模式解耦12_23_14:00" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂模式解耦12_23_14:00" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="7" key="#Project_Structure" timestamp="1577080111524">
@@ -236,10 +228,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="371" y="95" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.689@0.0.1280.689" timestamp="1577079740451" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577080903796">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577081259765">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1577080903796" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1577081259765" />
     <state x="304" y="83" key="FileChooserDialogImpl" timestamp="1577080439200">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -284,6 +276,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="208" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1577080420981" />
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2" timestamp="1577080938807">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1577080938807" />
     <state x="197" y="84" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1577072301947">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -308,16 +304,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenruan/factory/BeanFactory.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/shenruan/factory/BeanFactory.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/com/shenruan/ui/Client.java</url>
           <line>7</line>
